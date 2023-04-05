@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Kodchasan', sans-serif;
+
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(17, 17, 17, 0.486), rgba(20, 20, 20, 0.507)), url('./assets/beautiful-forest-moonlight-landscape-vector.jpg');
+    background-size: cover;
+}
